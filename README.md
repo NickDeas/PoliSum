@@ -1,6 +1,10 @@
 # PoliSum (Code upload in progress)
 Code accompanying the paper ["Summarization of Opinionated Political Documents with Varied Perspectives"](https://arxiv.org/abs/2411.04093) (Deas & McKeown, COLING 2025).
 
+<div align="center">
+      <img src="/Task Diagram.png?" height="400"/>
+</div>
+
 # Code Instructions
 
 ## Benchmarking
