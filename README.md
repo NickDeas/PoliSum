@@ -5,7 +5,17 @@ Code accompanying the paper ["Summarization of Opinionated Political Documents w
       <img src="/Task Diagram.png?" height="400"/>
 </div>
 
-# Code Instructions
+# Setup
+
+1. Clone and navigate to the top-level repository directory
+2. Create a virtual environment and install all dependencies
+   ```
+    pip install -r requirements.txt
+   ```
+3. Run `setup.sh` to make all experiment scripts executable and to create the necessary directories.
+4. Place the data in `data/` in the top-level project directory (See [Data Availability](#Data-Availability) for data sharing instructions)
+
+# Experiments
 
 ## Benchmarking
 
