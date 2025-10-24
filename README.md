@@ -12,13 +12,13 @@ Code accompanying the paper ["Summarization of Opinionated Political Documents w
    ```
     pip install -r requirements.txt
    ```
-3. Run `setup.sh` to make all experiment scripts executable and to create the necessary directories.
-4. Place the data in `data/` in the top-level project directory (See [Data Availability](#Data-Availability))
+3. Create a `results/` directory in the top-level of the repository before running scripts
+4. Place the data in a `data/` directory in the top-level of the repository (See [Data Availability](#Data-Availability))
 5. Clone/download [relevant metrics and model checkpoints](#Other-Dependencies)
 
 # Other Dependencies
 In addition to the libraries included in the requirements.txt file, the following repositories and checkpoints are needed to replicate the evaluation:
-1. AlignScore [repository](https://github.com/yuh-zha/AlignScore)
+1. AlignScore [repository](https://github.com/yuh-zha/AlignScore) and [AlignScore-large checkpoint](https://huggingface.co/yzha/AlignScore/resolve/main/AlignScore-large.ckpt)
 3. JointCL [repository](https://github.com/HITSZ-HLT/JointCL?tab=readme-ov-file) and best performing VAST zero-shot [model](https://drive.google.com/drive/folders/1PyWOvEAXWsTzB2oAajiIFtvgama1EkV_)
 4. The [NRC VAD Lexicon](https://saifmohammad.com/WebPages/nrc-vad.html)
 
