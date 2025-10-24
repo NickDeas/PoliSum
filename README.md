@@ -1,4 +1,4 @@
-# PoliSum
+# PoliSum (Columbia NLP)
 Code accompanying the paper ["Summarization of Opinionated Political Documents with Varied Perspectives"](https://aclanthology.org/2025.coling-main.539/) (Deas & McKeown, COLING 2025).
 
 <div align="center">
