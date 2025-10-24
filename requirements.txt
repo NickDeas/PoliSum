@@ -1,0 +1,13 @@
+pandas
+tqdm
+matplotlib
+SciencePlots
+nltk
+torch
+transformers
+datasets
+evaluate
+torchmetrics
+rouge-score
+scikit-learn
+summac
