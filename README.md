@@ -13,7 +13,7 @@ Code accompanying the paper ["Summarization of Opinionated Political Documents w
     pip install -r requirements.txt
    ```
 3. Run `setup.sh` to make all experiment scripts executable and to create the necessary directories.
-4. Place the data in `data/` in the top-level project directory (See [Data Availability](#Data-Availability) for data sharing instructions)
+4. Place the data in `data/` in the top-level project directory (See [Data Availability](#Data-Availability))
 5. Clone/download [relevant metrics and model checkpoints](#Other-Dependencies)
 
 # Other Dependencies
@@ -37,7 +37,7 @@ The `Extraction Analyses.ipynb` notebook contains code for reproducing the extra
 
 # Data Availability
 
-Please reach out at [ndeas@cs.columbia.edu](mailto:ndeas@cs.columbia.edu) for details on requesting access to the dataset.
+Permission must be obtained from The Flip Side to use the data associated with this work. Please reach out at [ndeas@cs.columbia.edu](mailto:ndeas@cs.columbia.edu) for details on requesting access to the dataset.
 
 # Citation
 If you find our work helpful, please use the following citation:
